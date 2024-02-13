@@ -16,7 +16,7 @@ int Algorythm(int a, int b, int c) {
 
 int main(int argc, char* argv[]) {
 	setlocale(LC_ALL, "Russian");
-	std::cout << "090304-ÐÏÈà-î23 Êîâàëåíêî Í. Ì." << std::endl;
+	std::cout << "090304-Ð ÐŸÐ˜Ð°-Ð¾23 ÐšÐ¾Ð²Ð°Ð»ÐµÐ½ÐºÐ¾ Ð.Ðœ." << std::endl;
 	while (true) {
 		int a, b, c;
 		std::cout << "Enter a, b and c (for ex.: 12 3 5)" << std::endl;
